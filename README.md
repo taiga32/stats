@@ -13,7 +13,7 @@
 ```mermaid
 gantt
   title 開発スケジュール
-    データ選定 :activate, data, 2022-07-30 24:00:00, 1d
+    データ選定 :activate, data, 2022-07-30 12:00:00, 1d
     目的 :goal, after data, 1d
     要件定義 :definition, after goal, 1d
     設計 :design, after definition, 1d
