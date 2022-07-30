@@ -24,4 +24,7 @@ gantt
 
 [vscodeとgithub, gitを連携させるには](https://miya-system-works.com/blog/detail/vscode-github/)
 
+[データセット入手先](https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download)
+※japanのcsv, jsonファイルを今回のデータ分析に用いる
+
 ##　
