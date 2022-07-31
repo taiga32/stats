@@ -28,4 +28,5 @@ gantt
 
 ### プロジェクト管理関連, markdown関連
 [mermaid.jsを用いたガントチャート作成](https://qiita.com/miriwo/items/7df0024d4098302e5721)
+[mermaidの公式ドキュメント](https://mermaid-js.github.io/mermaid/#/stateDiagram)
 [テーブルセル結合](https://b1san-blog.com/post/vscode/vscode-md-first/)
