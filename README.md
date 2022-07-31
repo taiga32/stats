@@ -14,17 +14,18 @@ gantt
     考察     :thinking, after coding, 2d
     レポート  :report, after thinking, 1d
  
- section 実際の進捗
 ```
 
 ## 参考資料集
+### git関連
 [gitコマンド](https://docs.microsoft.com/ja-jp/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
-
-[mermaid.jsを用いたガントチャート作成](https://qiita.com/miriwo/items/7df0024d4098302e5721)
 
 [vscodeとgithub, gitを連携させるには](https://miya-system-works.com/blog/detail/vscode-github/)
 
+### データ
 [データセット入手先](https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download)
 ※japanのcsv, jsonファイルを今回のデータ分析に用いる
 
-##　
+### プロジェクト管理関連, markdown関連
+[mermaid.jsを用いたガントチャート作成](https://qiita.com/miriwo/items/7df0024d4098302e5721)
+[テーブルセル結合](https://b1san-blog.com/post/vscode/vscode-md-first/)
